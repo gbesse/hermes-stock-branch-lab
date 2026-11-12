@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Simuler une réservation avant exécution et vérifier la fraîcheur', 'en': 'Simulate reservations and verify snapshot freshness', 'es': 'Simular reservas y verificar vigencia de instantáneas'}

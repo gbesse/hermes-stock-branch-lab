@@ -1,0 +1,29 @@
+{
+  "stock": [
+    {
+      "sku": "part",
+      "on_hand": 10,
+      "reserved": 8
+    }
+  ],
+  "candidates": [
+    {
+      "id": "promise-five",
+      "reserve": [
+        {
+          "sku": "part",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": "promise-two",
+      "reserve": [
+        {
+          "sku": "part",
+          "quantity": 2
+        }
+      ]
+    }
+  ]
+}

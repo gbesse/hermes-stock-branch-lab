@@ -1,0 +1,6 @@
+name: hermes-stock-branch-lab
+version: 0.1.0-alpha.1
+manifest_version: 2
+api_version: 1
+license: MIT
+description: "FR : Simuler une réservation avant exécution et vérifier la fraîcheur / EN: Simulate reservations and verify snapshot freshness / ES: Simular reservas y verificar vigencia de instantáneas"
